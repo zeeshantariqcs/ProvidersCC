@@ -1,0 +1,6 @@
+-r mocha test/register.test.ts
+--compilers ts-node/register
+--require source-map-support/register
+--full-trace
+--bail
+mocha test/*.test.ts

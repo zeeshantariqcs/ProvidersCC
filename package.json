@@ -31,7 +31,7 @@
     "report-dir": "docs/reports/coverage"
   },
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^2.6.4",
     "aws-sdk": "^2.279.1",
     "bulma": "^0.7.1",
     "ejs": "^2.6.1",
